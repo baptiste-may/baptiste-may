@@ -1,76 +1,41 @@
-# Hi, I'm Baptiste! 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+================================================================================================================================
 
-## Working on
+My name is Baptiste
+-------------------
 
-<details>
-<summary>🎮 Nosto (Discord Server)</summary>
+Having been immersed in computer science since I was very young, I am a computer science undergraduate student at the University of Artois in Lens. I recently participated in ARC (Artois pRogramming Contest) and then in SWERC (Southwestern Europe Regional Contest).
 
-⌨️ **Developper and foundator**
-- [Discord link](https://discord.io/Nosto)
-</details>
-<details>
-<summary>🪄 Elementary Land (Java Minecraft Server)</summary>
+* 🌍  I'm based in France
+* 🖥️  See my portfolio at [may-baptiste.fr](http://may-baptiste.fr)
+* ✉️  You can contact me at [pro@may-baptiste.fr](mailto:pro@may-baptiste.fr)
+* 🧠  I'm learning Kotlin
+* ⚡  I'm French 🥐🥖
 
-✨ **Effects technician**
-- [Discord link](https://discord.gg/y6cRsM2YqC)
-</details>
-<details>
-<summary>⚙️ Allcraft0r's Server (Discord Server)</summary>
+### Skills
 
-🤖 **Bot Developper**
-- [Discord link](https://discord.io/allcraft0r)
-- [Bot GitHub Repository](https://github.com/DjRedstone/allcraft0r-discord-bot.git)
-</details>
-<details>
-<summary>🗃️ GitHub (Here lol)</summary>
 
-- [GitHub link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-</details>
-<details>
-<summary>📱 Replit</summary>
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+</p>
 
-- [Replit link](https://replit.com/@DjRedstone)
-</details>
 
-## My Personnals Projects:
+### Socials
 
-|Status|Project name|Description|Links|
-|------|------------|-----------|-----|
-|✅ Finished|**🎬 Minecraft Vision 2022's results**|A [website](https://djredstone.github.io/MCVisionResults/) for voting animation on [Minecraft Vision Contest 2022](https://youtu.be/pQZChHKlVeI)|[GitHub](https://github.com/DjRedstone/MCVisionResults.git)|
-|🚧 In progress|**🎲 Game Helper**|A website for helping in board games|[GitHub](https://github.com/DjRedstone/game-helper.git)|
-|🚧 In progress|**🎤 Quote Sauce**|A game where you need to find who said the quote|[GitHub](https://github.com/DjRedstone/quote-sauce.git)|
-|✅ Deployed|**📝 Quote Sauce Theme creator**|A [website](https://djredstone.github.io/quote-sauce-theme-creator) where you can create your theme for [Quote Sauce](https://github.com/DjRedstone/quote-sauce.git)|[GitHub](https://github.com/DjRedstone/quote-sauce-theme-creator.git)|
-|✅ Deployed|**🤖 Allcraft0r Discord Bot**|A Bot for [Allcraft0r](https://www.youtube.com/@allcraft0r)'s Discord Server|[GitHub](https://github.com/DjRedstone/allcraft0r-discord-bot.git)|
-|✅ Deployed|**🎛️ Club Dare**|A virtual nightclub on a [website](http://club-dare.may-baptiste.fr)|[GitHub](https://github.com/DjRedstone/club-dare.git)|
-|🚧 In progress|**🚽 WC Line**|A virtual waiting line for WC on a [website](http://wc-line.may-baptiste.fr)|[GitHub](https://github.com/DjRedstone/wc-line.git)|
-|✅ Deployed|**🎲 Game Finder**|A [website](http://game-finder.may-baptiste.fr) for finding board game|[GitHub](https://github.com/DjRedstone/game-finder.git)|
-|🛑 On standby|**🤖 Hapory Discord Bot**|A Bot for Hapory Discord Server|[GitHub](https://github.com/DjRedstone/hapory-discord-bot.git)|
-|🚧 In progress|**👋 My Website**|Just [my website](http://may-baptiste.fr)|[GitHub](https://github.com/DjRedstone/my-website.git)|
-|🚧 In progress|**🏠 My Safe Place**|My virtual safe place on [a website](https://djredstone.github.io/safe-place/)|[GitHub](https://github.com/DjRedstone/safe-place.git)|
-|✅ Finished|**🤖 Secret Santa Discord Bot**|A Discord Bot for organise secret santa|[GitHub](https://github.com/DjRedstone/secret-santa.git)|
-|🛑 On standby|**🌭 Socisseau website**|Uhh... Explanations [here](https://youtu.be/rEK8L2laKxk)|[GitHub](https://github.com/DjRedstone/socisseau-website.git)|
-|✅ Deployed|**📜 GRHB website**|A [website](http://busnes-histoire.fr) for Busnes History Research Group|[GitHub](https://github.com/DjRedstone/GRHB.git)|
-|🚧 In progress|**🃏 Onu**|A website like Ubisoft's uno online|[GitHub](https://github.com/DjRedstone/onu.git)|
-|🚧 In progress|**🤖 Tunic language Discord Bot**|A Discord Bot for speak in [Tunic](https://store.steampowered.com/app/553420/TUNIC/) language|[Replit](https://replit.com/@DjRedstone/TunicLang)|
-|✅ Deployed|**💡 TransIdea**|A [website](http://transidea.may-baptiste.fr) for translate an idea into some language to get name idea||
-|✅ Deployed|**〽️ PolyTranslate**|A [website](http://polytranslate.may-baptiste.fr) for translate a sentence some times in others languages to get a totaly random (*or the same*) sentence at the end||
-|🚧 In progress|**📽️ MyWatchingFilms**|A [website](https://mywatchingfilm.djredstone.repl.co) for list films that you watched|[Replit](https://replit.com/@DjRedstone/MyWatchingFilm)|
-|🚧 In progress|**🃏 Cards Games Discord Bot**|A Discord Bot for play some cards games|[Replit](https://replit.com/@DjRedstone/Cards-Game-Discord-Bot)|
-|✅ Deployed|**🤖 Nosto Discord Bot**| A Bot for [Nosto](https://discord.io/Nosto) Discord Server|[GitHub](https://github.com/nostoMC/discord-bot.git)|
-|🚧 In progress|**`💡 Secret project`**|*What can it be [?](https://elementary-land.fr)*||
+<p align="left"> <a href="https://discord.com/users/baptiste-may" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/baptiste.may.1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/baptiste-may" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/baptiste-may-8706602a3" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/redstone_64" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-*Note : "Deployed" doesn't mean "finished"!*
+### Badges
 
----
+<b>My GitHub Stats</b>
 
-```java
-class Main {
-  public static void main(String[] args) {
-    System.out.println("Python is bad");
-  }
-}
-```
+<a href="http://www.github.com/baptiste-may"><img src="https://github-readme-stats.vercel.app/api?username=baptiste-may&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="baptiste-may's GitHub stats" /></a>
 
----
+<a href="https://github.com/baptiste-may" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baptiste-may&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-*and yeah, I'm french* 🥐🥖
+### Support Me
+
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/baptiste.may"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+</ul>
